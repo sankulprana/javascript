@@ -8,3 +8,5 @@ let accounstate;
 console.log(ans)
 console.log(val)
 console.table([val,ans,account_email,accounstate])
+
+// alert(3+5) we are using node not browser
